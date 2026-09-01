@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Sou o professor Saaann...zio 👋
 
 <!--
 **oesanzio/oesanzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Aqui estão algumas ideias para começar:
+
+- 🔭 Atualmente estou lecionando no Curso Técnico de Informática
+- 🌱 Estou aprendendo mais sobre programação WEB
+- 👯 Procuro colaborar com o parendizado de lógica
+- 🤔 Procuro ajuda com um projeto desktop em Java para registro de ocorrências escolares
+- ⚡ Curiosidade: Já viajei por 31000Km numa moto de 300cc, passando por 5 países da América do Sul
