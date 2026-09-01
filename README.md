@@ -21,3 +21,11 @@ Aqui estão algumas ideias para começar:
 - 👯 Procuro colaborar com o parendizado de lógica
 - 🤔 Procuro ajuda com um projeto desktop em Java para registro de ocorrências escolares
 - ⚡ Curiosidade: Já viajei por 31000Km numa moto de 300cc, passando por 5 países da América do Sul
+<div>
+  <a href="">
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=oesanzio&show_icons=true&theme=bear">
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=oesanzio&show_icons=true&theme=bear&langs_count=&layout=donut-vertical&stats_format=bytes">
+    <!--Refer~encia para atributos do top-langs
+    https://github.com/stats-organization/github-stats-extended/blob/master/docs/advanced_documentation.md#top-languages-card
+    -->
+</div>
